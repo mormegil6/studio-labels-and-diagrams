@@ -13,14 +13,18 @@ A color-coding reference chart for quick visual identification of XLR cable leng
 | `xlr-labels/XLR_colorCodes.svg` | Vector, editable in Inkscape / Illustrator |
 | `xlr-labels/XLR_colorCodes.pdf` | Ready to print |
 
+![XLR color-coding labels](xlr-labels/preview.png)
+
 ## Patch Panel Wiring Maps (`patch-panel/`)
 
 Wiring diagrams for the studio patch panel — designed for printing and laminating for quick in-studio reference. Three iterations are tracked in the commit history.
 
 | File | Format |
 |---|---|
-| `schemat_krosownic_do_laminowania__3.svg` | Vector, editable |
-| `schemat_krosownic_do_laminowania__3.pdf` | Ready to print |
+| `patch-panel/schemat_krosownic_do_laminowania__3.svg` | Vector, editable |
+| `patch-panel/schemat_krosownic_do_laminowania__3.pdf` | Ready to print |
+
+![Patch panel wiring map](patch-panel/preview.png)
 
 Earlier revisions (`__1`, `__2`) are available in the commit history.
 
