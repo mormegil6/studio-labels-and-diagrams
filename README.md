@@ -4,14 +4,14 @@
 
 Printable (and laminatable) studio utility documents: XLR cable color-coding labels and patch panel wiring maps for a professional studio control room.
 
-## XLR Cable Color-Coding Labels
+## XLR Cable Color-Coding Labels (`xlr-labels/`)
 
 A color-coding reference chart for quick visual identification of XLR cable lengths. Designed to work with the [3D-printed XLR cable label rings](https://www.thingiverse.com/thing:4136093) available on Thingiverse.
 
 | File | Format |
 |---|---|
-| `XLR_colorCodes.svg` | Vector, editable in Inkscape / Illustrator |
-| `XLR_colorCodes.pdf` | Ready to print |
+| `xlr-labels/XLR_colorCodes.svg` | Vector, editable in Inkscape / Illustrator |
+| `xlr-labels/XLR_colorCodes.pdf` | Ready to print |
 
 ## Patch Panel Wiring Maps (`patch-panel/`)
 
