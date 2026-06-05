@@ -28,9 +28,9 @@ Wiring diagrams for the studio patch panel — designed for printing and laminat
 
 Earlier revisions (`__1`, `__2`) are available in the commit history.
 
-## Support
+## Contact
 
-All questions, comments and insights please address to me via e-mail: bartlomiej.mroz@pg.edu.pl
+Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · [bmroz.eu](https://bmroz.eu) · Department of Multimedia Systems, Gdańsk University of Technology
 
 ## License
 
